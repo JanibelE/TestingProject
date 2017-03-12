@@ -20,10 +20,12 @@ namespace TestExam
             ContactPage.form();
         }
 
-       /* [TestCleanup]
+       /* 
+        [TestCleanup]
         public void close()
         {
             Browser.close();
-        }*/
+        }
+        */
     }
 }
